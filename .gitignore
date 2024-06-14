@@ -150,3 +150,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+data/2017 2021 2022 Provincial loading per provincial supply area_mixed.xlsx
+figures/interactive/Demand in GW per Provincial Supply Area - 2017 Data (Eskom).html
+figures/static/Demand in GW per Provincial Supply Area - 2017 Data (Eskom).jpg
+data/~$2017 2021 2022 Provincial loading per provincial supply area.xlsx
+data/~$2017.xlsx
+data/~$2021 2022 Provincial loading with Hydra Central rev1.xlsx
+data/~$HourlyDemandModel_v09b_NECOM_GI.xlsm
